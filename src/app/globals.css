@@ -2,9 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer components {
-  html,
-  body {
-    @apply h-full;
-  }
+html,
+body {
+	height: 100%;
 }

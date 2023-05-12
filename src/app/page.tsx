@@ -1,3 +1,3 @@
 export default function Home() {
-  return <>{/* TODO: Add your code here */}</>;
+	return <>{/* TODO: Add your code */}</>;
 }
